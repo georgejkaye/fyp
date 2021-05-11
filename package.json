@@ -41,7 +41,7 @@
     "file-loader": "^6.1.0",
     "html-react-parser": "^0.14.0",
     "html-webpack-plugin": "^4.4.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mini-css-extract-plugin": "^0.11.0",
     "react": "^17.0.1",
     "react-autosuggest": "^10.0.2",
